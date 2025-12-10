@@ -1,0 +1,21 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# VS Code workspace and settings
+Application/SampleWebApplication/.vscode/
+
+# Build outputs
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Node modules (if present)
+node_modules/
+
+# Windows thumbnail cache
+Thumbs.db
